@@ -1,4 +1,4 @@
-public class task_5 {
+public class Task5 {
     public static void main(String[] args) {
         int age_child = 3;
         if (age_child < 5) {

@@ -1,6 +1,4 @@
-import java.sql.SQLOutput;
-
-public class task_6 {
+public class Task6 {
     public static void main(String[] args) {
         int trainCapacity = 102;
         int numberPassenger = 50;

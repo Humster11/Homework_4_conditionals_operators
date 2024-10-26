@@ -1,6 +1,6 @@
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-public class task_1 {
+public class Task1 {
     public static void main (String[] args) {
         int age = 25;
         if (age >= 18) {
